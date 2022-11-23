@@ -10,7 +10,11 @@ namespace MyFurniture
         static int basePrice = 25000;
         public Furniture()
         {
-            this.ID = ++ID; //hiba
+            this.ID = getID(); // hiba
+        }
+        public int getID()
+        {
+            return ID++;
         }
         public virtual double Price()
         {
