@@ -7,7 +7,6 @@ namespace Óriásteknős
         static void Main(string[] args)
         {
             Food[] ételek = new Food[10];
-
             ételek[0] = new Crab(10);
             ételek[1] = new Crab(1);
             ételek[2] = new Salad();
