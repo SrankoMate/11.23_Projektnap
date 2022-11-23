@@ -7,10 +7,19 @@ namespace MyFurniture
     abstract class Furniture
     {
         protected int ID;
-        public Furniture(int ID)
-        {
-            this.ID = ID;
-        }
         static int basePrice = 25000;
+        public Furniture()
+        {
+            this.ID = ++ID; //hiba
+        }
+        public virtual double Price()
+        {
+            return basePrice;
+        }
+        public virtual void Print()
+        {
+            Console.WriteLine("A bútor egyedi azonosítója:"+ID);
+            Console.WriteLine("A bútor összege:" + Price());
+        }
     }
 }

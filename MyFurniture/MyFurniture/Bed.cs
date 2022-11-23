@@ -8,11 +8,22 @@ namespace MyFurniture
     {
         protected int hossz;
         protected int szélesség;
-        public Bed(int hossz,int szélesség, int ID) :base(ID)
+        const double bedFactor = 2.4;
+        public Bed(int hossz,int szélesség) :base()
         {
             this.hossz = hossz;
             this.szélesség = szélesség;
         }
-        const double bedFactor = 2.4;
+        public override double Price()
+        {
+            return base.Price() * bedFactor;
+        }
+        public override void Print()
+        {
+            base.Print();
+            Console.WriteLine("Az ágy hossza:"+hossz);
+            Console.WriteLine("Az ágy szélessége:"+szélesség);
+            Console.WriteLine("");
+        }
     }
 }

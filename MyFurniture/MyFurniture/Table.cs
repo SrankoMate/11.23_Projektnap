@@ -7,10 +7,20 @@ namespace MyFurniture
     class Table : Furniture
     {
         protected int magasság;
-        public Table(int magasság,int ID) :base(ID)
+        const double TableFactor = 0.3;
+        public Table(int magasság) :base()
         {
             this.magasság = magasság;
         }
-        const double TableFactor = 0.3;
+        public override double Price()
+        {
+            return base.Price() * TableFactor;
+        }
+        public override void Print()
+        {
+            base.Print();
+            Console.WriteLine("Az asztal magassága:"+magasság);
+            Console.WriteLine("");
+        }
     }
 }

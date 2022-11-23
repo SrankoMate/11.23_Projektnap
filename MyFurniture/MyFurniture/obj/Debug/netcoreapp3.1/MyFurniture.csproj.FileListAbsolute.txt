@@ -1,0 +1,13 @@
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\bin\Debug\netcoreapp3.1\MyFurniture.exe
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\bin\Debug\netcoreapp3.1\MyFurniture.deps.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\bin\Debug\netcoreapp3.1\MyFurniture.runtimeconfig.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\bin\Debug\netcoreapp3.1\MyFurniture.runtimeconfig.dev.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\bin\Debug\netcoreapp3.1\MyFurniture.dll
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\bin\Debug\netcoreapp3.1\MyFurniture.pdb
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\obj\Debug\netcoreapp3.1\MyFurniture.csprojAssemblyReference.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\obj\Debug\netcoreapp3.1\MyFurniture.AssemblyInfoInputs.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\obj\Debug\netcoreapp3.1\MyFurniture.AssemblyInfo.cs
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\obj\Debug\netcoreapp3.1\MyFurniture.csproj.CoreCompileInputs.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\obj\Debug\netcoreapp3.1\MyFurniture.dll
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\obj\Debug\netcoreapp3.1\MyFurniture.pdb
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\MyFurniture\MyFurniture\obj\Debug\netcoreapp3.1\MyFurniture.genruntimeconfig.cache

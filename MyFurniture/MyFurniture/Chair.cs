@@ -7,10 +7,20 @@ namespace MyFurniture
     class Chair : Furniture
     {
         protected int lábszáma;
-        public Chair(int lábszáma, int ID) : base(ID)
+        const double chairFactor = 1.2;
+        public Chair(int lábszáma) : base()
         {
             this.lábszáma = lábszáma;
         }
-        const double chairFactor = 1.2;
+        public override double Price()
+        {
+            return base.Price() * chairFactor;
+        }
+
+        public override void Print()
+        {
+            base.Print();
+            Console.WriteLine("A szék lábszáma:"+lábszáma);
+        }
     }
 }
