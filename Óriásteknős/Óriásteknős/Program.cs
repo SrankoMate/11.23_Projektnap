@@ -6,7 +6,7 @@ namespace Óriásteknős
     {
         static void Main(string[] args)
         {
-            Food[] ételek = new Food[6];
+            Food[] ételek = new Food[9];
 
             ételek[0] = new Crab(10);
             ételek[1] = new Crab(1);
@@ -14,6 +14,9 @@ namespace Óriásteknős
             ételek[3] = new Crab(5);
             ételek[4] = new Crab(10);
             ételek[5] = new Crab(5);
+            ételek[6] = new Crab(10);
+            ételek[7] = new Crab(10);
+            ételek[8] = new Crab(10);
             Turtle Tihi = new Turtle();
 
             for (int i = 0; i < ételek.Length; i++)

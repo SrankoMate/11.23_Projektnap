@@ -12,24 +12,24 @@ namespace Óriásteknős
         public void Eat(int a)
         {
             if(fedLevel > 1000)
-                Console.WriteLine("Tihi jóllakottsági szintje tele van.");
+                Console.WriteLine("Tihi tele van, nem tudod etetni.");
             else
             {
                 fedLevel += a;
-                Console.WriteLine("A hozzáadott value:"+a);
-                Console.WriteLine(fedLevel);
             }
 
             if (fedLevel < 500)
             {
-                Console.WriteLine("A bevitt tápérték 500 alatt van.");
+                Console.WriteLine("A bevitt tápérték 500 alatt van, növekszik Tihi boldogsága");
                 happiness++;
             }
             else
             {
-                Console.WriteLine("A bevitt tápérték 500 felett van.");
+                Console.WriteLine("A bevitt tápérték 500 felett van, csökken Tihi boldogsága");
                 happiness--;
             }
+            Console.WriteLine("Tihi jelenlegi boldogsága szintje:"+happiness);
+            Console.WriteLine("");
         }
     }
 }
