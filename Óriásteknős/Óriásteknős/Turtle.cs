@@ -9,14 +9,15 @@ namespace Óriásteknős
         protected int happiness;
         protected int fedLevel;
 
-        public void Eat()
+        public void Eat(int a)
         {
             if(fedLevel > 1000)
                 Console.WriteLine("Tihi jóllakottsági szintje tele van.");
             else
             {
-                fedLevel += value();
-                Console.WriteLine("A hozzáadott value:"+value());
+                fedLevel += a;
+                Console.WriteLine("A hozzáadott value:"+a);
+                Console.WriteLine(fedLevel);
             }
 
             if (fedLevel < 500)

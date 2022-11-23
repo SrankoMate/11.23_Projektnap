@@ -6,7 +6,7 @@ namespace Óriásteknős
     {
         static void Main(string[] args)
         {
-            Food[] ételek = new Food[100];
+            Food[] ételek = new Food[6];
 
             ételek[0] = new Crab(10);
             ételek[1] = new Crab(1);
@@ -14,10 +14,10 @@ namespace Óriásteknős
             ételek[3] = new Crab(5);
             ételek[4] = new Crab(10);
             ételek[5] = new Crab(5);
-            for (int i = 0; i < ételek.Length; i++)
-                ételek[i].value();
             Turtle Tihi = new Turtle();
-            Tihi.Eat();
+
+            for (int i = 0; i < ételek.Length; i++)
+            Tihi.Eat(ételek[i].value());
         }
     }
 }
