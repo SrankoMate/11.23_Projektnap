@@ -8,6 +8,7 @@ namespace MyFurniture
     {
         protected int ID;
         static int basePrice = 25000;
+
         public Furniture()
         {
             this.ID = getID(); // hiba
