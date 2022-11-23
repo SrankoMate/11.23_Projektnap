@@ -6,6 +6,7 @@ namespace Hunter
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
