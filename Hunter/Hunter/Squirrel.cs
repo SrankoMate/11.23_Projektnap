@@ -4,8 +4,12 @@ using System.Text;
 
 namespace Hunter
 {
-    class Squirrel
+    class Squirrel : Animal
     {
         const double squirrelFactor = 1.2;
+        public override double getPrice()
+        {
+            return base.getPrice() * squirrelFactor;
+        }
     }
 }

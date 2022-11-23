@@ -4,8 +4,12 @@ using System.Text;
 
 namespace Hunter
 {
-    class PolarBear
+    class PolarBear : Animal
     {
         const double polarBearFactor = 2.4;
+        public override double getPrice()
+        {
+            return base.getPrice() * polarBearFactor;
+        }
     }
 }

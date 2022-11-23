@@ -1,0 +1,13 @@
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\bin\Debug\netcoreapp3.1\Hunter.exe
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\bin\Debug\netcoreapp3.1\Hunter.deps.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\bin\Debug\netcoreapp3.1\Hunter.runtimeconfig.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\bin\Debug\netcoreapp3.1\Hunter.runtimeconfig.dev.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\bin\Debug\netcoreapp3.1\Hunter.dll
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\bin\Debug\netcoreapp3.1\Hunter.pdb
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\obj\Debug\netcoreapp3.1\Hunter.csprojAssemblyReference.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\obj\Debug\netcoreapp3.1\Hunter.AssemblyInfoInputs.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\obj\Debug\netcoreapp3.1\Hunter.AssemblyInfo.cs
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\obj\Debug\netcoreapp3.1\Hunter.csproj.CoreCompileInputs.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\obj\Debug\netcoreapp3.1\Hunter.dll
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\obj\Debug\netcoreapp3.1\Hunter.pdb
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Hunter\Hunter\obj\Debug\netcoreapp3.1\Hunter.genruntimeconfig.cache
