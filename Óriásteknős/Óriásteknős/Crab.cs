@@ -8,10 +8,12 @@ namespace Óriásteknős
     {
         protected int méret = 0;
         protected int Crabtápérték = 10;
-
         public Crab(int méret)
         {
-            this.méret = méret;
+            if(méret<=10&&méret>=1)
+                this.méret = méret;
+            else
+                Console.WriteLine("Rossz a mérete a ráknak (1-10 közötti értéket adj meg)");
         }
         public override int value()
         {
