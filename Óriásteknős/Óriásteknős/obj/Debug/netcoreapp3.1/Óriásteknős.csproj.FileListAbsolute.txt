@@ -1,0 +1,13 @@
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\bin\Debug\netcoreapp3.1\Óriásteknős.exe
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\bin\Debug\netcoreapp3.1\Óriásteknős.deps.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\bin\Debug\netcoreapp3.1\Óriásteknős.runtimeconfig.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\bin\Debug\netcoreapp3.1\Óriásteknős.runtimeconfig.dev.json
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\bin\Debug\netcoreapp3.1\Óriásteknős.dll
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\bin\Debug\netcoreapp3.1\Óriásteknős.pdb
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\obj\Debug\netcoreapp3.1\Óriásteknős.csprojAssemblyReference.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\obj\Debug\netcoreapp3.1\Óriásteknős.AssemblyInfoInputs.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\obj\Debug\netcoreapp3.1\Óriásteknős.AssemblyInfo.cs
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\obj\Debug\netcoreapp3.1\Óriásteknős.csproj.CoreCompileInputs.cache
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\obj\Debug\netcoreapp3.1\Óriásteknős.dll
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\obj\Debug\netcoreapp3.1\Óriásteknős.pdb
+C:\Users\tothm\OneDrive\Asztali gép\11.23_GIT\Óriásteknős\Óriásteknős\obj\Debug\netcoreapp3.1\Óriásteknős.genruntimeconfig.cache
